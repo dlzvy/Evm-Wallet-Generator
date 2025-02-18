@@ -1,2 +1,5 @@
 # Evm-Wallet-Generator
-Simple with one click 
+
+Quick EVM wallet generator. Can be used offline. Returns address, private key, seed phrase, and an encrypted JSON file.
+
+Live at 
